@@ -30,6 +30,8 @@ Programa baseado no tema: Controle de pedidos de uma lanchonete.
 ```pip install pillow```
 5. E agora é só clicar na setinha da pasta de "controle_pedidos" e executar o "main.py"
 
+## Tela de login
 ![logar](https://github.com/user-attachments/assets/a26291ca-12e3-4b86-9b0a-f774819b995e)
+## Tela de registro
 ![registrar](https://github.com/user-attachments/assets/99b95caf-a2a9-43a3-a4d1-08e795ff177b)
 
