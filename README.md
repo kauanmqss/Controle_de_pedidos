@@ -1,4 +1,4 @@
-Controle de pedidos de uma lanchonete
+### Controle de pedidos de uma lanchonete
 Projeto de faculdade com finalidade de fazer um controle de pedidos de uma lanchonete, que no caso, KFC foi a inspiração.
 
 ![logar](https://github.com/user-attachments/assets/a26291ca-12e3-4b86-9b0a-f774819b995e)
