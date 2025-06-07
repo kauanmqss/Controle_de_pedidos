@@ -1,6 +1,6 @@
 
 # Controle de pedidos de lanches
-##Tela principal do projeto
+## Tela principal do projeto
 ![tela_inicial](https://github.com/user-attachments/assets/2d015ceb-7f4c-4006-8627-663d83fbf388)
 
 ## Criadores
